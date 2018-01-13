@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/arthurimirzian/salesforce-jwt-bearer-token-flow.git"
+    "url": "https://github.com/arthurimirzian/salesforce-oauth2-web-server-flow"
   },
   "keywords": [
     "Salesforce",
