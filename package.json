@@ -1,6 +1,6 @@
 {
   "name": "salesforce-oauth2-web-server-flow",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "./lib/webserver.js",
   "description": "SalesForce OAuth 2.0 Web Server Authentication Flow Implementation",
   "dependencies": {
