@@ -1,0 +1,26 @@
+{
+  "name": "salesforce-oauth2-web-server-flow",
+  "version": "0.1.0",
+  "main": "./lib/webserver.js",
+  "description": "SalesForce OAuth 2.0 Web Server Authentication Flow Implementation",
+  "dependencies": {
+    "querystring": "^0.2.0",
+    "request": "^2.83.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arthurimirzian/salesforce-jwt-bearer-token-flow.git"
+  },
+  "keywords": [
+    "Salesforce",
+    "OAuth",
+    "OAuth2",
+    "WebServer"
+  ],
+  "engines": {
+    "node": "0.12.7"
+  },
+  "author": "Arthur IMIRZIAN",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
