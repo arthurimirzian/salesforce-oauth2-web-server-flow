@@ -1,11 +1,11 @@
 {
   "name": "salesforce-oauth2-web-server-flow",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "./lib/webserver.js",
   "description": "SalesForce OAuth 2.0 Web Server Authentication Flow Implementation",
   "dependencies": {
     "querystring": "^0.2.0",
-    "request": "^2.85.0"
+    "request": "^2.88.0"
   },
   "repository": {
     "type": "git",
